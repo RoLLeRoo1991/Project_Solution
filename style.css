@@ -1,0 +1,162 @@
+*{
+    background-color: burlywood;
+    
+}
+
+.text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    margin-top: 4rem;
+    margin-left: 4rem;
+    width: 200px;
+    justify-content: center;
+    margin-bottom: none;
+}
+
+.textx{
+    background-color: none;
+    color: white;
+    font-size: 8px;
+    display: block;
+    margin: none;
+    width: 200px;
+    height: 30px;
+    padding:none;
+    margin: none;
+}
+
+.tex1{
+    font-size: 20px;
+    color: indigo;
+}
+.tex2{
+    font-size: 10px;
+    color: grey;
+}
+
+.tex3{
+    color:purple;
+    background-color: white;
+    font-size: 0.4rem;
+}
+
+.container1{
+
+    display:flex;
+    justify-content: center;
+    margin-bottom: 1.2rem;
+    height: 12px;
+    width: 160px;background-color: white;
+    padding: 00.2rem;
+    margin-left: 46%;
+    margin-top: -15%;
+    border-radius: 4rem;
+
+}
+.container2{
+
+    display:flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    height: 12px;
+    width: 160px;background-color: white;
+    padding: 0.2rem;
+    margin-left: 48%;
+    margin-top: -1%;
+    border-radius: 4rem;
+
+}
+
+.container3{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    height: 12px;
+    width: 160px;background-color: white;
+    padding: 0.2rem;
+    margin-left: 52%;
+    margin-top: -1%;
+    border-radius: 4rem;
+}
+
+
+.tex{
+    color: purple;
+    font-size: 10px;
+    margin: 0;
+    background-color: white;
+    
+    
+}
+
+.pic{
+    background-color: white;
+}
+.container4{
+    display: flex;
+}
+
+.container5{
+    margin:none;
+    width: 200px;
+    height: 150px;
+    background-color: purple;
+    margin-top: 16%;
+    border-radius: 5px;
+    margin-left: 4rem;
+    margin-top: 8%;
+}
+.container6{
+    margin:none;
+    width: 200px;
+    height: 150px;
+    background-color: purple;
+    margin-top: 17%;
+    border-radius: 5px;
+    margin-left: 2rem;
+    margin-top: 9%;
+}
+.container7{
+
+    margin:none;
+    width: 200px;
+    height: 150px;
+    background-color: purple;
+    margin-top: 18%;
+    border-radius: 5px;
+    margin-left: 2rem;
+    margin-top: 10%;
+
+}
+
+.tekst{
+    font-size: 0.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: purple;
+    color: white;
+    display: block;
+    margin-top: 30px;
+    text-align: justify-center;
+    padding: 0.5rem;
+
+    
+}
+.tekstt{
+    font-size: 0.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: purple;
+    color: white;
+    display: block;
+    margin-top: -30px;
+    margin-left: 50px;
+}
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: purple;
+    color: rebeccapurple;
+}
+.slike{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
